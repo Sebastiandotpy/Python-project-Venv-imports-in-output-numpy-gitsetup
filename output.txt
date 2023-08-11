@@ -1,0 +1,4 @@
+Greetings from Module A!
+Greetings from Module B!
+Sum of numbers: 15
+Average: 3.0
